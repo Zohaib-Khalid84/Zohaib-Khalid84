@@ -10,7 +10,7 @@ I’m on a journey to grow from **beginner to pro developer**!
 
 - 🌱 Currently learning **HTML, CSS, JavaScript, SEO & Digital Marketing**  
 - 💬 Ask me about **web development basics or digital marketing strategies**  
-- 📫 Reach me: [Email](mailto:zohaib@example.com)  
+- 📫 Reach me: [zk153780@gmail.com](mailto:zohaib@example.com)  
 
 ---
 
