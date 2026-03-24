@@ -1,41 +1,40 @@
-<h1 align="center">Hi 👋, I'm Zohaib Khalid</h1>
-<h3 align="center">🚀 Aspiring Front End Developer | BS Software Engineering Student</h3>
+# Hi there 👋, I'm Zohaib Khalid
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zohaib-Khalid84&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
+![Profile Banner](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 BS Software Engineering Student  
-- 🌱 Currently learning **Web Development & Digital Marketing**  
-- 💡 Passionate about building modern websites  
-- 📍 Based in Pakistan  
+## 🚀 About Me
+I'm a **Software Engineering Student** learning **Web Development & Digital Marketing**.  
+I love **exploring new technologies**, practicing **SEO**, and building **my skills step by step**.  
+
+- 🌱 I’m currently learning **Web Development, SEO, and Digital Marketing**  
+- 💬 Ask me about **software engineering basics, web dev, or learning resources**  
+- 📫 Reach me: [Email](mailto:zohaib@example.com)  
 
 ---
 
-## 🛠️ Skills
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
-</p>
+## 🛠 Skills I’m Learning
+![HTML](https://img.shields.io/badge/HTML5-Studying-orange?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-Studying-blue?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow?style=flat-square&logo=javascript)
+![SEO](https://img.shields.io/badge/SEO-Learning-green?style=flat-square&logo=google)
+![Digital Marketing](https://img.shields.io/badge/Digital_Marketing-Learning-red?style=flat-square)
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zohaib-Khalid84&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zohaib-Khalid84&theme=radical" />
-</p>
+## 💻 GitHub Stats
+![Zohaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
 
-## 🔗 Connect with Me
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
-</p>
+## 🎯 Learning Goals
+- Build my **first web project** (portfolio, blog, or small app)  
+- Improve **SEO and digital marketing skills**  
+- Learn **React.js and Node.js basics**  
+- Contribute to **open source projects**  
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+✨ **Fun fact:** I’m on a journey from learning basics to becoming a **pro developer** — follow my progress!  
