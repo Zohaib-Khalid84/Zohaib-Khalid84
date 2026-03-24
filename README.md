@@ -1,15 +1,15 @@
 # Hi there 👋, I'm Zohaib Khalid
 
-![Profile Banner](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Coding Banner](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ---
 
 ## 🚀 About Me
-I'm a **Software Engineering Student** learning **Web Development & Digital Marketing**.  
-I love **exploring new technologies**, practicing **SEO**, and building **my skills step by step**.  
+I'm a **Software Engineering Student** learning **Web Development, SEO, and Digital Marketing**.  
+I’m on a journey to grow from **beginner to pro developer**!  
 
-- 🌱 I’m currently learning **Web Development, SEO, and Digital Marketing**  
-- 💬 Ask me about **software engineering basics, web dev, or learning resources**  
+- 🌱 Currently learning **HTML, CSS, JavaScript, SEO & Digital Marketing**  
+- 💬 Ask me about **web development basics or digital marketing strategies**  
 - 📫 Reach me: [Email](mailto:zohaib@example.com)  
 
 ---
@@ -23,18 +23,32 @@ I love **exploring new technologies**, practicing **SEO**, and building **my ski
 
 ---
 
-## 💻 GitHub Stats
-![Zohaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+## 📈 GitHub Stats
+![Zohaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)
 
 ---
 
 ## 🎯 Learning Goals
-- Build my **first web project** (portfolio, blog, or small app)  
-- Improve **SEO and digital marketing skills**  
+- Build my **first web project** (portfolio or blog)  
+- Improve **SEO & Digital Marketing skills**  
 - Learn **React.js and Node.js basics**  
 - Contribute to **open source projects**  
 
 ---
 
-✨ **Fun fact:** I’m on a journey from learning basics to becoming a **pro developer** — follow my progress!  
+## 🔥 Fun & Motivation
+- 🎯 **Daily Goal:** Practice coding or SEO for at least 1 hour  
+- 📚 **Currently Reading:** “The Road to Learn React”  
+- 💡 Fun fact: I love **animated GitHub profiles** and colorful badges!  
+
+---
+
+## 🌟 Animated Progress Tracker
+![Zohaib's Activity](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)
+
+---
+
+✨ **Let’s connect and grow together!**  
+
+
