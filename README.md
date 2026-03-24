@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zohaib Khalid</h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer | BS Software Engineering Student</h3>
+<h3 align="center">🚀 Aspiring Front End Developer | BS Software Engineering Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zohaib-Khalid84&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
