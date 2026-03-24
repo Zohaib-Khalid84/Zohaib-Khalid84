@@ -2,9 +2,6 @@
   Hi there 👋, I'm <span style="background: linear-gradient(90deg, #FF512F, #DD2476); -webkit-background-clip: text; color: transparent;">Zohaib Khalid</span>
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600"/>
-</p>
 
 ---
 
@@ -57,10 +54,6 @@ Currently on a journey to go from **beginner → pro developer**!
 
 ---
 
-## 📈 Activity Tracker
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark" width="100%" />
-</p>
 
 ---
 
