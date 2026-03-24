@@ -10,7 +10,7 @@ I’m on a journey to go from **beginner to professional developer**.
 
 - 🌱 Currently learning **HTML, CSS, JavaScript, SEO & Digital Marketing**  
 - 💬 Ask me about **web dev basics or digital marketing strategies**  
-- 📫 Reach me at: [Email](mailto:zohaib@example.com)  
+- 📫 Reach me at: [zk153780@gmail.com](mailto:zohaib@example.com)  
 
 ---
 
@@ -44,8 +44,7 @@ I’m on a journey to go from **beginner to professional developer**.
 
 ---
 
-## 📈 Activity Tracker
-![Zohaib's Activity](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)
+
 
 ---
 
